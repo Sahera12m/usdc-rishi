@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ucsd-rishi-ngo/static/css/main.0f68e6c0.css",
+    "main.js": "/ucsd-rishi-ngo/static/js/main.ba7a72cf.js",
+    "static/media/image-1.png": "/ucsd-rishi-ngo/static/media/image-1.f849360029e04363c77e.png",
+    "static/media/image-4.png": "/ucsd-rishi-ngo/static/media/image-4.dee2a0f28ef3dd30da57.png",
+    "static/media/image-5.png": "/ucsd-rishi-ngo/static/media/image-5.27202a09f12d4479e492.png",
+    "static/media/image-2.png": "/ucsd-rishi-ngo/static/media/image-2.bbd6d56959e83d05e154.png",
+    "static/media/image-3.png": "/ucsd-rishi-ngo/static/media/image-3.1e152d4d6433067777cd.png",
+    "static/media/logo.jpg": "/ucsd-rishi-ngo/static/media/logo.e2a20b28b22d7996b414.jpg",
+    "index.html": "/ucsd-rishi-ngo/index.html",
+    "main.0f68e6c0.css.map": "/ucsd-rishi-ngo/static/css/main.0f68e6c0.css.map",
+    "main.ba7a72cf.js.map": "/ucsd-rishi-ngo/static/js/main.ba7a72cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f68e6c0.css",
+    "static/js/main.ba7a72cf.js"
+  ]
+}
